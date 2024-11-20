@@ -1,0 +1,22 @@
+01 name
+Merlin
+02 class
+M
+03 immune
+No
+04 cursed blade
+Yes
+05 loot
+Gold!
+06 magic
+7
+07 smarts
+0
+08 strength
+0
+09 agility
+7
+10 speed
+3
+11 stat points
+0

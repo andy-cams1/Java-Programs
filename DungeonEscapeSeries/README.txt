@@ -1,0 +1,1 @@
+Do not modify or move the folders out of this directory as that will cause the games to crash.
